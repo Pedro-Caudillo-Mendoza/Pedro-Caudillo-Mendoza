@@ -1,7 +1,7 @@
 - 👋 Hola, soy @Pedro-Caudillo-Mendoza
 - 👀 Estoy interesado en los robots manipuladores.
 - 🌱 Actualmente estoy aprendiendo la cinemática directa e inversa de los robots manipuladores con Python.
-- 💞️ IEstoy buscando calaborar en la cinematica directa e inversa de los robots manipuladores.
+- 💞️ Estoy buscando calaborar en proyectos mecatronicos.
 - 📫 Contacto: l161010117@lerma.tecnm.mx
 
 <!---
